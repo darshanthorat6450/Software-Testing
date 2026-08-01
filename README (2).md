@@ -61,7 +61,7 @@ Maintained by **Darshan Thorat**, this repository is meant to be a launchpad for
 
 **1. Clone this repo:**
 ```sh
-git clone https://github.com/chandreshpatle/software-testing-projects.git
+git clone https://github.com/darshanthorat/software-testing-projects.git
 cd software-testing-projects
 ```
 
